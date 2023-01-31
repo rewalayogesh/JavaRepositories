@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd7747c7-76e0-4853-910c-0d1d78aae209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Arithmatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/DecisionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/EmployeeTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Inputname.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Starprint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceofOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="fd7747c7-76e0-4853-910c-0d1d78aae209" name="Changes" comment="Java Examples">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +21,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ac4fe09d-ea63-4852-af9f-fd4870d67be5" />
+        <option name="url" value="https://github.com/rewalayogesh/JavaRepositories.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -130,5 +126,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
