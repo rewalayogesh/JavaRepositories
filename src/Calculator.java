@@ -33,7 +33,12 @@ public class Calculator {
                     break;
                 default:
                     System.exit(0);
-
+                    try{
+                        System.out.println(result/0);
+                    }
+                    catch(Exception ie){
+                        System.out.println("Exception caught " + ie.getMessage());
+                    }   
             }
         }
     }
